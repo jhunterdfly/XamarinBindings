@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+
+    <remove-node path="/api/package[@name='com.twilio.chat.internal']/interface[@name='InternalStatusListener']" />
+    
+    
+    
+    <!--<remove-node path="/api/package[@name='com.twilio.chat.internal']/class[@name='CallbackListenerForwarder.1']" />
+    <remove-node path="/api/package[@name='com.twilio.chat.internal']/class[@name='CallbackListenerForwarder.2']" />
+    <remove-node path="/api/package[@name='com.twilio.chat.internal']/class[@name='StatusListenerForwarder.1']" />
+    <remove-node path="/api/package[@name='com.twilio.chat.internal']/class[@name='StatusListenerForwarder.2']" />
+    <remove-node path="/api/package[@name='com.twilio.chat.internal']/class[@name='ProgressListenerForwarder.1']" />
+    <remove-node path="/api/package[@name='com.twilio.chat.internal']/class[@name='ProgressListenerForwarder.2']" />
+    <remove-node path="/api/package[@name='com.twilio.chat.internal']/class[@name='ProgressListenerForwarder.3']" />
+    
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.1']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.2']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.3']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.4']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.5']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.6']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.8']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.9']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.10']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.11']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.12']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.13']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.14']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.15']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.16']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.17']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.18']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.19']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='ChatClient.ChatClientListenerForwarder.20']" />
+    
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='Channel.ChannelListenerForwarder.1']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='Channel.ChannelListenerForwarder.2']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='Channel.ChannelListenerForwarder.3']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='Channel.ChannelListenerForwarder.4']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='Channel.ChannelListenerForwarder.5']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='Channel.ChannelListenerForwarder.6']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='Channel.ChannelListenerForwarder.7']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='Channel.ChannelListenerForwarder.8']" />
+    <remove-node path="/api/package[@name='com.twilio.chat']/class[@name='Channel.ChannelListenerForwarder.9']" />-->
+<!--    <remove-node path="/api/package[@name='com.twilio.chat.internal']/class[@name='ErrorEventArgs']" />-->
+    
+<!--    <remove-node path="/api/package[@name='com.twilio.chat.internal']/interface[@name='InternalProgressListener']" />-->
+<!--    <remove-node path="/api/package[@name='com.twilio.chat.internal']/interface[@name='InternalCallbackListener']" />-->
+    
+    
+</metadata>
